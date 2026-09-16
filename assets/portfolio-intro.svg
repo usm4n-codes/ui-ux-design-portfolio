@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="216" viewBox="0 0 1200 216" role="img" aria-labelledby="title desc">
+  <title id="title">Interfaces with intent.</title>
+  <desc id="desc">Usman — UI / UX design portfolio. Product interfaces and visual explorations.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#141019"/><stop offset=".65" stop-color="#21182f"/><stop offset="1" stop-color="#493363"/></linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="1199" height="215" rx="22" fill="url(#bg)" stroke="#655278"/>
+  <circle cx="43" cy="43" r="4" fill="#bc9cea"/>
+  <text x="60" y="48" fill="#d3c6e5" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">USMAN / UI / UX DESIGN PORTFOLIO</text>
+  <text x="40" y="125" fill="#fbf8ff" font-family="Georgia, serif" font-size="61">Interfaces with intent.</text>
+  <text x="43" y="169" fill="#c7bbd7" font-family="Arial, sans-serif" font-size="18">Product interfaces and visual explorations. Designed with focus and character.</text>
+  <path d="M1085 149 L1142 92 M1106 92 H1142 V128" fill="none" stroke="#b69bd5" stroke-width="2"/>
+</svg>
