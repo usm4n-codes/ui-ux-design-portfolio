@@ -6,20 +6,10 @@
 
 <p align="center"><sub>AUTOMOTIVE UI · DESKTOP · FIGMA</sub></p>
 
-<br>
-
-<p align="center">
-  <img src="./assets/cover.jpg" width="76%" alt="Car Store Hero Page cinematic cover">
-</p>
-
-<p align="center"><img src="./assets/preview-01.png" width="76%" alt="Car Store Hero Page preview"></p>
+<p align="center"><a href="https://www.figma.com/design/xCEuwEmHg65B8XHz1ide35/Portfolio-designs"><img src="./assets/preview-01.png" width="76%" alt="Car Store Hero Page preview"></a></p>
 
 <p align="center">A dark automotive interface built around a dramatic vehicle image, inventory thumbnails, and a clear booking action.</p>
 
-<p align="center">
-  <strong>FIGMA LINK PENDING</strong>
-</p>
+<p align="center"><a href="https://www.figma.com/design/xCEuwEmHg65B8XHz1ide35/Portfolio-designs"><strong>VIEW IN FIGMA →</strong></a></p>
 
-<p align="center">
-  <a href="../../README.md">← BACK TO PORTFOLIO</a>
-</p>
+<p align="center"><sub><a href="../../">← BACK TO PORTFOLIO</a></sub></p>
